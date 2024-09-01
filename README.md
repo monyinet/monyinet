@@ -5,8 +5,8 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=anthropic&logoColor=white)
 
-> **El mapa no es el territorio** 🗺≠🌍
-> Explorador en el mundo del desarrollo Full Stack. Aspirante a polímata digital, apasionado por la creatividad y la tecnología.
+> **El mapa no es el territorio** 🗺≠🌍<br>
+> Explorador en el universo del desarrollo Full Stack.<br>
 ## **Lo que me mueve**
   - 🌐 Crear soluciones tecnológicas innovadoras
   - 🛠️ Aprender y dominar nuevas herramientas de desarrollo
